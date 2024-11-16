@@ -5,7 +5,7 @@
 <img
   src="https://render.gitanimals.org/farms/hyeoniiee"
   width="600"
-  height="350"
+  height="300"
 />
 </a>
   
